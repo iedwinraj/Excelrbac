@@ -1,2 +1,4 @@
 Add Me
-Added from git repositiry
+Added from git repositiry - working fine
+
+added from folder -
