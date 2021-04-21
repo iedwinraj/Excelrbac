@@ -1,4 +1,17 @@
 Add Me
 Added from git repositiry - working fine
-
+----------------------------------------
 added from folder -
+git init
+git repository
+git add .
+git commit -m "message"
+any changes
+git init
+git add .
+git commit -m "message"
+git push 
+---------------------
+get source from git
+git init
+git pull
